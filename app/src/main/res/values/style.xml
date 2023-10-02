@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#C0D2DB</item>    <!--선택 탭, 버튼 색-->
+        <item name="colorPrimaryDark">#99AEB8</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:windowBackground">#ffffff</item>
+        <item name="colorAccent">#99AEB8</item> <!--editview 바-->
+        <item name="colorSurface">@color/bar</item>
+        <item name="android:statusBarColor">#C0D2DB</item>
+        <item name="statusBarScrim">@color/black</item>
+        <item name="popupMenuBackground">@color/white</item>
+    </style>
+
+    <style name="AppTheme.AlertDialogTheme" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="colorAccent">#99AEB8</item><!--다이얼로그 위에 색상-->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorSurface">@color/white</item>
+    </style>
+
+    <style name="AppTheme.FloatBtnTheme" parent="ThemeOverlay.Material3.FloatingActionButton.Primary">
+        <item name="colorContainer">@color/bar</item>
+        <item name="colorOnContainer">@color/black</item>
+    </style>
+
+    <style name="AppTheme.MenuTheme" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:background">@color/white</item>
+    </style>
+</resources>

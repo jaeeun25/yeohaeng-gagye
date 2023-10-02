@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.travel_expense_app">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_main"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_main_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:name="com.example.travel_expense_app.set.StartSet"
+        android:requestLegacyExternalStorage="true"
+        tools:targetApi="31">
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.travel_expense_app.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_provider"></meta-data>
+        </provider>
+
+        <activity
+            android:name="com.example.travel_expense_app.PlanActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name="com.example.travel_expense_app.ChartActivity"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name="com.example.travel_expense_app.AuthActivity"
+            android:exported="false"
+            android:windowSoftInputMode="stateAlwaysVisible"/>
+        <activity
+            android:name="com.example.travel_expense_app.HomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.travel_expense_app.HomeAddActivity"
+            android:exported="false"/>
+        <activity
+            android:name="com.example.travel_expense_app.MainActivity"
+            android:exported="false"/>
+        <activity
+            android:name="com.example.travel_expense_app.AddActivity"
+            android:exported="true"/>
+        <activity
+            android:name="com.example.travel_expense_app.ItemActivity"
+            android:exported="false" />
+    </application>
+</manifest>

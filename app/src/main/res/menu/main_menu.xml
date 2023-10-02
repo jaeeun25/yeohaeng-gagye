@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/exchange"
+        android:title="환율 가져오기"/>
+    <item
+        android:id="@+id/plan"
+        android:title="지출 계획 현황"/>
+    <item
+        android:id="@+id/ti_modify"
+        android:title="가계부 정보 수정"/>
+    <item
+        android:id="@+id/ti_delete"
+        android:title="가계부 삭제"/>
+    <item
+        android:id="@+id/chart"
+        android:title="지출 통계"
+        android:icon="@drawable/icon_grape"
+        app:showAsAction="always"/>
+</menu>
