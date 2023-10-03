@@ -6,7 +6,7 @@
 
 #### _효율적인 여행을 돕는 여행 가계부 앱_
 
-![국민 해외관광객 추이](https://github.com/jaeeun25/yeohaeng-gagye/assets/124561558/737e1f13-a6db-4333-97c8-2cf13f967216)
+![국민 해외관광객 추이](https://github.com/jaeeun25/yeohaeng-gagye/assets/124561558/3dab24d2-d9a4-41e6-94c6-6219853884fc)
 <sub>[국민 해외관광객 추이-한국관광 데이터랩](https://datalab.visitkorea.or.kr/datalab/portal/nat/getOseaTourForm.do)</sub>
 
 \
