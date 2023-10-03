@@ -4,8 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/home_main"
     tools:context=".HomeActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/home_main"
+        android:scaleType="centerCrop"/>
+    <!-- 이미지 출처: https://pixabay.com/ko/photos/%ED%99%9C%EC%A3%BC%EB%A1%9C-%EB%B9%84%ED%96%89%EC%9E%A5-%EA%B3%B5%ED%95%AD-%EC%B0%A9%EB%A5%99-1227526/ -->
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/home_ab"

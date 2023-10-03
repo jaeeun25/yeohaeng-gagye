@@ -18,4 +18,6 @@
         android:title="지출 통계"
         android:icon="@drawable/icon_grape"
         app:showAsAction="always"/>
+
+    <!-- 아이콘 출처: https://www.iconfinder.com/search/icons?family=phosphor-light-->
 </menu>

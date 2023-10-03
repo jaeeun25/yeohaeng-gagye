@@ -15,6 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+    <!-- 이미지 출처: https://pixabay.com/ko/photos/%EB%B9%84%ED%96%89%EA%B8%B0-%EC%B2%9C%EA%B5%AD-%ED%9D%90%EB%A6%BC-%EB%82%A0%EA%B0%9C-1043635/-->
 
     <ImageView
         android:id="@+id/home_x_btn"
@@ -349,4 +350,6 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/home_plan" />
+
+    <!-- 아이콘 출처: https://www.iconfinder.com/search/icons?family=phosphor-light-->
 </androidx.constraintlayout.widget.ConstraintLayout>

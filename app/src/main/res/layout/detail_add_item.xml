@@ -68,4 +68,6 @@
             android:layout_marginTop="1dp"
             android:src="@drawable/icon_x_btn"/>
     </LinearLayout>
+
+    <!-- 아이콘 출처: https://www.iconfinder.com/search/icons?family=phosphor-light-->
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -23,11 +23,17 @@ import com.google.firebase.auth.EmailAuthProvider
 class HomeActivity : AppCompatActivity() {
     private lateinit var binding: ActivityHomeBinding
     private lateinit var adapter: HomeAdapter
-    private val img = arrayOf(R.drawable.home1, R.drawable.home2, R.drawable.home3,
-        R.drawable.home4, R.drawable.home5, R.drawable.home6 )  // 가계부 이미지
     private var mode: Boolean = false               // 로그인 여부 저장
     private var list: MutableList<Trip>? = null     // 가계부 리스트
     private var clickPosition: Int = 0              // 클릭한 가계부 위치
+    private val img = arrayOf(R.drawable.home1, R.drawable.home2, R.drawable.home3,
+        R.drawable.home4, R.drawable.home5, R.drawable.home6 )  // 가계부 이미지
+    // 이미지 출처
+    // home1: https://pixabay.com/ko/photos/%ED%98%B8%EC%88%98-%EC%9E%90%EC%97%B0-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-%ED%83%90%EA%B5%AC-6701636/
+    // home2: https://pixabay.com/ko/photos/%EC%99%80%EC%9D%B8%EB%94%A9%EB%8F%84%EB%A1%9C-%EC%9D%BC%EB%AA%B0-%EC%82%B0-%EC%82%B0-%ED%92%8D%EA%B2%BD-1556177/
+    // home3: https://pixabay.com/ko/photos/%EC%B2%A0%EB%8F%84-%EA%B8%B0%EC%B0%A8-%ED%8A%B8%EB%9E%99-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-5517562/
+    // home4: https://pixabay.com/ko/photos/%ED%95%B4%EB%B3%80-%EB%8C%80%EC%96%91-%EC%A7%80%EC%A3%BC-%EB%B0%94%EB%8B%A4-%ED%95%B4%EC%95%88-2413081/
+    // home5: https://pixabay.com/ko/photos/%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-%EA%B1%B4%EB%AC%BC-%ED%95%AD%EA%B5%AC-%EC%A7%80%ED%8F%89%EC%84%A0-5838029/
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
