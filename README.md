@@ -64,18 +64,7 @@
 
 * 홈 메인 이미지: https://pixabay.com/ko/photos/%ED%99%9C%EC%A3%BC%EB%A1%9C-%EB%B9%84%ED%96%89%EC%9E%A5-%EA%B3%B5%ED%95%AD-%EC%B0%A9%EB%A5%99-1227526/
 * 가계부 추가 이미지: https://pixabay.com/ko/photos/%EB%B9%84%ED%96%89%EA%B8%B0-%EC%B2%9C%EA%B5%AD-%ED%9D%90%EB%A6%BC-%EB%82%A0%EA%B0%9C-1043635/
-* 카테고리 및 기타 아이콘
-  - icon_auth:
-  - icon_back:
-  - icon_x_btn: https://www.iconfinder.com/search/icons?family=feather
-  - icon_food: 
-  - icon_bus: https://www.iconfinder.com/icons/11121147/fi_rr_bus_alt_icon
-  - icon_house:
-  - icon_shopping: https://www.iconfinder.com/search/icons?family=feather
-  - icon_tourism:
-  - icon_etc: https://www.iconfinder.com/search/icons?family=feather
-  - icon_image: https://www.iconfinder.com/search/icons?family=feather
-  - icon_grape: https://www.iconfinder.com/icons/11121169/fi_rr_chart_pie_alt_icon
+* 카테고리 및 기타 아이콘: https://www.iconfinder.com/search/icons?family=phosphor-light
 * 가계부별 랜덤 이미지
   - 테마1: https://pixabay.com/ko/photos/%ED%98%B8%EC%88%98-%EC%9E%90%EC%97%B0-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-%ED%83%90%EA%B5%AC-6701636/
   - 테마2: https://pixabay.com/ko/photos/%EC%99%80%EC%9D%B8%EB%94%A9%EB%8F%84%EB%A1%9C-%EC%9D%BC%EB%AA%B0-%EC%82%B0-%EC%82%B0-%ED%92%8D%EA%B2%BD-1556177/
@@ -83,7 +72,6 @@
   - 테마4: https://pixabay.com/ko/photos/%ED%95%B4%EB%B3%80-%EB%8C%80%EC%96%91-%EC%A7%80%EC%A3%BC-%EB%B0%94%EB%8B%A4-%ED%95%B4%EC%95%88-2413081/
   - 테마5: https://pixabay.com/ko/photos/%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-%EA%B1%B4%EB%AC%BC-%ED%95%AD%EA%B5%AC-%EC%A7%80%ED%8F%89%EC%84%A0-5838029/
   - 테마6: 본인
-* 앱 아이콘:
   
 ***
 
