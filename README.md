@@ -66,7 +66,7 @@
   
 ***
 
-#### 출처
+## 출처
 
 * [홈 메인 이미지](https://pixabay.com/ko/photos/%ED%99%9C%EC%A3%BC%EB%A1%9C-%EB%B9%84%ED%96%89%EC%9E%A5-%EA%B3%B5%ED%95%AD-%EC%B0%A9%EB%A5%99-1227526/)
 * [가계부 추가 화면 이미지](https://pixabay.com/ko/photos/%EB%B9%84%ED%96%89%EA%B8%B0-%EC%B2%9C%EA%B5%AD-%ED%9D%90%EB%A6%BC-%EB%82%A0%EA%B0%9C-1043635/)
