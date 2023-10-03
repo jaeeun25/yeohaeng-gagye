@@ -1,16 +1,19 @@
 # 여행 가계?
+> - 2022.07.04 ~ 2022.11.04
+> - 졸업 프로젝트 & 4-2 코틀린 기말 프로젝트
 
 ## 기획 의도
 
 #### _효율적인 여행을 돕는 여행 가계부 앱_
 
-[![국민 해외관광객 추이](https://github.com/jaeeun25/yeohaeng-gagye/assets/124561558/737e1f13-a6db-4333-97c8-2cf13f967216)](https://datalab.visitkorea.or.kr/datalab/portal/nat/getOseaTourForm.do)
+![국민 해외관광객 추이](https://github.com/jaeeun25/yeohaeng-gagye/assets/124561558/737e1f13-a6db-4333-97c8-2cf13f967216)
+<sub>[국민 해외관광객 추이-한국관광 데이터랩](https://datalab.visitkorea.or.kr/datalab/portal/nat/getOseaTourForm.do)</sub>
+
 \
 &#x20;  코로나19 규제가 점차 완화됨에 따라 국내외 여행 수요가 늘어날 것이며, 관련 앱의 수요도 증가할 것으로 판단했습니다.
 
 \
 &#x20;  여행 중 예상치 못한 지출, 예산 계획에 어려움을 겪는 사용자들의 여행에 조금이나마 도움이 되고자 여행 가계부 앱을 개발하고자 했습니다.
-
 ***
 
 ## 개발 목표
@@ -67,13 +70,10 @@
 * [가계부 추가 화면 이미지](https://pixabay.com/ko/photos/%EB%B9%84%ED%96%89%EA%B8%B0-%EC%B2%9C%EA%B5%AD-%ED%9D%90%EB%A6%BC-%EB%82%A0%EA%B0%9C-1043635/)
 * [카테고리 및 기타 아이콘](https://www.iconfinder.com/search/icons?family=phosphor-light)
 * 가계부별 랜덤 이미지
-  - [테마1](https://pixabay.com/ko/photos/%ED%98%B8%EC%88%98-%EC%9E%90%EC%97%B0-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-%ED%83%90%EA%B5%AC-6701636/)
-  - [테마2](https://pixabay.com/ko/photos/%EC%99%80%EC%9D%B8%EB%94%A9%EB%8F%84%EB%A1%9C-%EC%9D%BC%EB%AA%B0-%EC%82%B0-%EC%82%B0-%ED%92%8D%EA%B2%BD-1556177/)
-  - [테마3](https://pixabay.com/ko/photos/%EC%B2%A0%EB%8F%84-%EA%B8%B0%EC%B0%A8-%ED%8A%B8%EB%9E%99-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-5517562/)
-  - [테마4](https://pixabay.com/ko/photos/%ED%95%B4%EB%B3%80-%EB%8C%80%EC%96%91-%EC%A7%80%EC%A3%BC-%EB%B0%94%EB%8B%A4-%ED%95%B4%EC%95%88-2413081/)
-  - [테마5](https://pixabay.com/ko/photos/%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-%EA%B1%B4%EB%AC%BC-%ED%95%AD%EA%B5%AC-%EC%A7%80%ED%8F%89%EC%84%A0-5838029/)
-  - 테마6 (본인)
+  * [테마1](https://pixabay.com/ko/photos/%ED%98%B8%EC%88%98-%EC%9E%90%EC%97%B0-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-%ED%83%90%EA%B5%AC-6701636/)
+  * [테마2](https://pixabay.com/ko/photos/%EC%99%80%EC%9D%B8%EB%94%A9%EB%8F%84%EB%A1%9C-%EC%9D%BC%EB%AA%B0-%EC%82%B0-%EC%82%B0-%ED%92%8D%EA%B2%BD-1556177/)
+  * [테마3](https://pixabay.com/ko/photos/%EC%B2%A0%EB%8F%84-%EA%B8%B0%EC%B0%A8-%ED%8A%B8%EB%9E%99-%EC%97%AC%ED%96%89%ED%95%98%EB%8B%A4-5517562/)
+  * [테마4](https://pixabay.com/ko/photos/%ED%95%B4%EB%B3%80-%EB%8C%80%EC%96%91-%EC%A7%80%EC%A3%BC-%EB%B0%94%EB%8B%A4-%ED%95%B4%EC%95%88-2413081/)
+  * [테마5](https://pixabay.com/ko/photos/%EA%B3%A0%EC%B8%B5-%EB%B9%8C%EB%94%A9-%EA%B1%B4%EB%AC%BC-%ED%95%AD%EA%B5%AC-%EC%A7%80%ED%8F%89%EC%84%A0-5838029/)
+  * 테마6 (본인)
   
-***
-
-졸업 프로젝트 & 4-2 코틀린 기말 프로젝트
