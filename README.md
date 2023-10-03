@@ -41,6 +41,7 @@
 * Firebase Store
 * Firebase Storage
 * Jsoup
+* MPAndroidChart
   
 ***
 
